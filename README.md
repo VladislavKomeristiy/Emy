@@ -5,7 +5,7 @@ Using this emulator program, you can learn more about the principles of processo
 Figure 1 shows a photo of a real model.
 
 <div style="text-align: center">
-<img src="img.png" width="75%" height="75%" class="center">
+<img src="https://github.com/VladislavKomeristiy/Emy/assets/75641042/40b1088a-db54-478e-99ae-f697a7d47162" width="75%" height="75%">
 
 Fig.1. Real model of digital educational processor
 </div>
