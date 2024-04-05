@@ -38,8 +38,8 @@ The following table provides a brief description of the components, which are nu
 10) **256 Button (F9)** - allows you to expand the available memory up to 256 bytes (when the button is pressed). When you change the amount of memory, the entire memory block is cleared.
 
 ### Downloading
-You can download the program in the form of an archive via `Code -> Download ZIP` or using the console. For second way press `Code`, copy URL in tab HTTPS, after in console write
+You can download the program in the form of an archive via `Code -> Download ZIP` or using the console:
 ``` 
     git clone https://github.com/VladislavKomeristiy/Emy.git
 ```
-Paste the copied link instead of the one in the example. After press Enter and wait to finish process. 
+After press Enter and wait to finish process. 
